@@ -1,0 +1,19 @@
+# Ignore compiled C files
+allall
+binsearch
+bllall
+bubblesort
+circ*
+deldll
+dlla
+insertion*
+linear*
+llall
+mergesort
+quicksort
+selsort
+
+*.out
+*.o
+*.exe
+
